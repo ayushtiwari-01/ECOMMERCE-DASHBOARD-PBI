@@ -1,6 +1,6 @@
 # Ayush Ecommerce Sales Dashboard 📊
 
-Welcome to the Ayush Ecommerce Sales Dashboard project repository! This project aims to create an interactive dashboard to track and analyze online sales across India for Madhav Store. Using Power BI, we've developed a comprehensive solution that enables the owner of Madhav Store to gain valuable insights into their online sales performance.
+Welcome to the Ayush Ecommerce Sales Dashboard project repository! This project aims to create an interactive dashboard to track and analyze online sales across India for Ayush Store. Using Power BI, we've developed a comprehensive solution that enables the owner of Ayush Store to gain valuable insights into their online sales performance.
 
 ## Preview
 ![Dashboard Preview](https://github.com/ayushtiwari-01/ECOMMERCE-DASHBOARD-PBI/blob/main/Dashboard.png?raw=true)
